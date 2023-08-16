@@ -7,7 +7,7 @@ namespace Card
     [CreateAssetMenu(menuName = "Card")]
     public class Card : ScriptableObject
     {
-        public string cardName;
+        public string title;
         public Sprite art;
         public string CardDetail;
         public string cardFlavor;
