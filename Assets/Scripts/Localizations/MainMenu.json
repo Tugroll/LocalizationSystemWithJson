@@ -1,0 +1,109 @@
+{
+  "languages": [ "en", "fr", "tr" ],
+  "table": 
+  [
+    {
+      "key": "Play",
+      "values": [
+        {
+          "lang": "en",
+          "value": "Play"
+        },
+        {
+          "lang": "fr",
+          "value": "JOUER"
+        },
+        {
+          "lang": "tr",
+          "value": "Oyna"
+        }
+      ]
+    },
+    {
+      "key": "Settings",
+      "values": [
+        {
+          "lang": "en",
+          "value": "Settings"
+        },
+        {
+          "lang": "fr",
+          "value": "Options"
+        },
+        {
+          "lang": "tr",
+          "value": "Ayarlar"
+        }
+      ]
+    },
+    {
+      "key": "Exit",
+      "values": [
+        {
+          "lang": "en",
+          "value": "Exit"
+        },
+        {
+          "lang": "fr",
+          "value": "Quitter"
+        },
+        {
+          "lang": "tr",
+          "value": "Çıkış"
+        }
+      ]
+    },
+    {
+      "key": "War",
+      "values": [
+        {
+          "lang": "en",
+          "value": "War"
+        },
+        {
+          "lang": "fr",
+          "value": "GUERRE"
+        },
+        {
+          "lang": "tr",
+          "value": "SAVAŞ"
+        }
+      ]
+    },
+    {
+      "key": "Peace",
+      "values": [
+        {
+          "lang": "en",
+          "value": "Peace"
+        },
+        {
+          "lang": "fr",
+          "value": "Paix"
+        },
+        {
+          "lang": "tr",
+          "value": "Barış"
+        }
+      ]
+    },
+    {
+      "key": "Supply",
+      "values": [
+        {
+          "lang": "en",
+          "value": "Supply"
+        },
+        {
+          "lang": "fr",
+          "value": "Fournir"
+        },
+        {
+          "lang": "tr",
+          "value": "Ürün"
+        }
+      ]
+    }
+    
+  ]
+}
